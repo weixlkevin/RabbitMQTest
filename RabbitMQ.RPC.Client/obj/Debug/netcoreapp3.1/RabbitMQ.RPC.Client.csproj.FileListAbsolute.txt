@@ -1,0 +1,15 @@
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\obj\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.AssemblyInfoInputs.cache
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\obj\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.AssemblyInfo.cs
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\obj\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.csproj.CoreCompileInputs.cache
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\bin\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.exe
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\bin\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.deps.json
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\bin\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.runtimeconfig.json
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\bin\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.runtimeconfig.dev.json
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\bin\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.dll
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\bin\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.pdb
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\obj\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.csproj.CopyComplete
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\obj\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.dll
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\obj\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.pdb
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\obj\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.genruntimeconfig.cache

@@ -6,7 +6,6 @@ E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\bin\Debug\netcoreapp3.1\Rabb
 E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Exchange.Receive.pdb
 E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
 E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
-E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\obj\Debug\netcoreapp3.1\RabbitMQ.Exchange.Receive.csprojAssemblyReference.cache
 E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\obj\Debug\netcoreapp3.1\RabbitMQ.Exchange.Receive.AssemblyInfoInputs.cache
 E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\obj\Debug\netcoreapp3.1\RabbitMQ.Exchange.Receive.AssemblyInfo.cs
 E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\obj\Debug\netcoreapp3.1\RabbitMQ.Exchange.Receive.csproj.CoreCompileInputs.cache

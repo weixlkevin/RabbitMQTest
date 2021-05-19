@@ -13,3 +13,4 @@ E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\obj\Debug\netcoreapp3.1\RabbitMQ.
 E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\obj\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.dll
 E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\obj\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.pdb
 E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\obj\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.genruntimeconfig.cache
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\obj\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.csprojAssemblyReference.cache
