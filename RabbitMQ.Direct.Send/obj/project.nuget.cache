@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dCtEw1lzdayFr2ISdQaZZSnaQIRs8+ael9MtNKV49gJRiZEvSCL1Mkdu40jyRZOcBTzcbo9NoDgMxJq6SZYBmA==",
+  "success": true,
+  "projectFilePath": "E:\\MyProject\\RabbitMQTest\\RabbitMQ.Direct.Send\\RabbitMQ.Direct.Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\weixl-pc\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\weixl-pc\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\weixl-pc\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

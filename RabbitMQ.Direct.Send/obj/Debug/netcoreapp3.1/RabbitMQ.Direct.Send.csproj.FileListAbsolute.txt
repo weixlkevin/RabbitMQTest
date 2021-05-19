@@ -1,0 +1,15 @@
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\bin\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.exe
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\bin\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.deps.json
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\bin\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.runtimeconfig.json
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\bin\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.runtimeconfig.dev.json
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\bin\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.dll
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\bin\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.pdb
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\obj\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.AssemblyInfoInputs.cache
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\obj\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.AssemblyInfo.cs
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\obj\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.csproj.CoreCompileInputs.cache
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\obj\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.csproj.CopyComplete
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\obj\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.dll
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\obj\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.pdb
+E:\MyProject\RabbitMQTest\RabbitMQ.Direct.Send\obj\Debug\netcoreapp3.1\RabbitMQ.Direct.Send.genruntimeconfig.cache

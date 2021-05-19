@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\weixl-pc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\weixl-pc\\.nuget\\packages"
+    ]
+  }
+}
