@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\TestRabbitMQ\\TestRabbitMQ\\TestRabbitMQ.Send.csproj",
+      "projectUniqueName": "E:\\MyProject\\RabbitMQTest\\TestRabbitMQ\\TestRabbitMQ.Send.csproj",
       "projectName": "TestRabbitMQ.Send",
-      "projectPath": "E:\\MyProject\\TestRabbitMQ\\TestRabbitMQ\\TestRabbitMQ.Send.csproj",
+      "projectPath": "E:\\MyProject\\RabbitMQTest\\TestRabbitMQ\\TestRabbitMQ.Send.csproj",
       "packagesPath": "C:\\Users\\weixl-pc\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\TestRabbitMQ\\TestRabbitMQ\\obj\\",
+      "outputPath": "E:\\MyProject\\RabbitMQTest\\TestRabbitMQ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\weixl-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

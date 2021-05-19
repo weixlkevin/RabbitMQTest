@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MyProject\\TestRabbitMQ\\RabbitMQ.Receive\\RabbitMQ.Receive.csproj": {}
+    "E:\\MyProject\\RabbitMQTest\\RabbitMQ.Receive\\RabbitMQ.Receive.csproj": {}
   },
   "projects": {
-    "E:\\MyProject\\TestRabbitMQ\\RabbitMQ.Receive\\RabbitMQ.Receive.csproj": {
+    "E:\\MyProject\\RabbitMQTest\\RabbitMQ.Receive\\RabbitMQ.Receive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MyProject\\TestRabbitMQ\\RabbitMQ.Receive\\RabbitMQ.Receive.csproj",
+        "projectUniqueName": "E:\\MyProject\\RabbitMQTest\\RabbitMQ.Receive\\RabbitMQ.Receive.csproj",
         "projectName": "RabbitMQ.Receive",
-        "projectPath": "E:\\MyProject\\TestRabbitMQ\\RabbitMQ.Receive\\RabbitMQ.Receive.csproj",
+        "projectPath": "E:\\MyProject\\RabbitMQTest\\RabbitMQ.Receive\\RabbitMQ.Receive.csproj",
         "packagesPath": "C:\\Users\\weixl-pc\\.nuget\\packages\\",
-        "outputPath": "E:\\MyProject\\TestRabbitMQ\\RabbitMQ.Receive\\obj\\",
+        "outputPath": "E:\\MyProject\\RabbitMQTest\\RabbitMQ.Receive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\weixl-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
