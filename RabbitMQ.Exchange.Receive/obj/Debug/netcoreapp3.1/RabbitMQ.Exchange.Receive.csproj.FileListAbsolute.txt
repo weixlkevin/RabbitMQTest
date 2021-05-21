@@ -13,3 +13,4 @@ E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\obj\Debug\netcoreapp3.1\Rabb
 E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\obj\Debug\netcoreapp3.1\RabbitMQ.Exchange.Receive.dll
 E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\obj\Debug\netcoreapp3.1\RabbitMQ.Exchange.Receive.pdb
 E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\obj\Debug\netcoreapp3.1\RabbitMQ.Exchange.Receive.genruntimeconfig.cache
+E:\MyProject\RabbitMQTest\RabbitMQ.Exchange.Receive\obj\Debug\netcoreapp3.1\RabbitMQ.Exchange.Receive.csprojAssemblyReference.cache

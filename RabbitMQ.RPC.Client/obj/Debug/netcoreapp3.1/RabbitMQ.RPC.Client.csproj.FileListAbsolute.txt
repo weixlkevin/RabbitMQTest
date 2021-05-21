@@ -13,3 +13,4 @@ E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\obj\Debug\netcoreapp3.1\RabbitMQ.R
 E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\obj\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.dll
 E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\obj\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.pdb
 E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\obj\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.genruntimeconfig.cache
+E:\MyProject\RabbitMQTest\RabbitMQ.RPC.Client\obj\Debug\netcoreapp3.1\RabbitMQ.RPC.Client.csprojAssemblyReference.cache
